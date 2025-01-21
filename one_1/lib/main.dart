@@ -26,4 +26,12 @@ void main() {
   print(age.runtimeType);
   print(int.parse(age).runtimeType);
   print(ageint);
+  // Arithmetic Operators
+  int one = 10;
+  int two = 20;
+  print(one + two);
+  print(one - two);
+  print(one * two);
+  print(one / two);
+  print(one % two);
 }
